@@ -2,29 +2,28 @@
 
 # M4nifest0-DDOs-Beta
 
-##### Program features #####
+##### 👁‍🗨 Project features:👇 #####
 ----------------------
-📌 ☠️ Masterpiece version after 1 month of programming by ☠️👊 M4nifest0 Black Hat Hacking Team™💪🏴‍☠️  (Bad Boys) 👎🏿
-📌 👁‍🗨 Project features:👇
-📌  Python +3 programming language is used.
-📌  Use of public libraries.
-📌  The Dark Dark and Deep Web libraries are used.
-📌  The private password key has been used.
-📌  128 IP encryption letters used.
-📌  Use of UDP and TCP protocols.
-📌  Tour controller used.
-📌   Fake coordinates are set automatically in the tour.
-📌  Attacks are automatically set in the tour in 3 seconds to 1 second.
-📌  Lightweight programming and bug fixes.
-📌  Trade from 20 to 400
-📌  Tor nodes are used.
-📌  Perform attacks on Bluetooth network.
-📌  Carrying out attacks on the Wafi network.
-📌   Perform attacks on the data center
-📌  Perform attacks on the ISP.
-📌  Performing attacks in the form of scams.
-📌   Perform IP and site attacks.
-📌  Shake the core of the data center.
+- 📌 ☠️ Masterpiece version after 1 month of programming by ☠️👊 M4nifest0 Black Hat Hacking Team™💪🏴‍☠️  (Bad Boys) 👎🏿
+- 📌 Python +3 programming language is used.
+- 📌 Use of public libraries.
+- 📌 The Dark Dark and Deep Web libraries are used.
+- 📌 The private password key has been used.
+- 📌 128 IP encryption letters used.
+- 📌 Use of UDP and TCP protocols.
+- 📌 Tour controller used.
+- 📌 Fake coordinates are set automatically in the tour.
+- 📌 Attacks are automatically set in the tour in 3 seconds to 1 second.
+- 📌 Lightweight programming and bug fixes.
+- 📌 Trade from 20 to 400
+- 📌 Tor nodes are used.
+- 📌 Perform attacks on Bluetooth network.
+- 📌 Carrying out attacks on the Wafi network.
+- 📌 Perform attacks on the data center
+- 📌 Perform attacks on the ISP.
+- 📌 Performing attacks in the form of scams.
+- 📌 Perform IP and site attacks.
+- 📌 Shake the core of the data center.
 
 ### Applicable on:
 <p align="center">	
