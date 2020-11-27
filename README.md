@@ -4,8 +4,8 @@
 
 ##### Program features #####
 ----------------------
-☠️ Masterpiece version after 1 month of programming by ☠️👊 M4nifest0 Black Hat Hacking Team™💪🏴‍☠️  (Bad Boys) 👎🏿
-👁‍🗨 Project features:👇
+📌 ☠️ Masterpiece version after 1 month of programming by ☠️👊 M4nifest0 Black Hat Hacking Team™💪🏴‍☠️  (Bad Boys) 👎🏿
+📌 👁‍🗨 Project features:👇
 📌  Python +3 programming language is used.
 📌  Use of public libraries.
 📌  The Dark Dark and Deep Web libraries are used.
